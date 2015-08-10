@@ -49,5 +49,5 @@
 @interface PNColor : NSObject
 
 - (UIImage *)imageFromColor:(UIColor *)color;
-
++ (UIColor *)randomColor;
 @end
