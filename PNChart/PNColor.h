@@ -50,4 +50,6 @@
 
 - (UIImage *)imageFromColor:(UIColor *)color;
 
++ (UIColor *)randomColor;
+
 @end
